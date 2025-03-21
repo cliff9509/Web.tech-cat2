@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background: linear-gradient(to bottom,rgb(44, 216, 44),rgb(255, 255, 255));
+
+}
+
+h1, h2 {
+    color: #0ccf1c;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 1px solid #067e1a;
+    background-color: #f9f9f9;
+    background-image: url('logo\ for\ Sunrise\ Cafe.png');
+    background-size: cover;
+    background-position: center;
+}
+
+th, td {
+    border: 1px solid #067e1a;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+a {
+    color: #007bff;
+    text-decoration: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+  border: 2px solid #ddd;
+}
+table th, table td {
+  border: 1px solid #ddd;
+}
+table thead{
+  background-color: #f9f9f9;
+}
+#header{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: #0ccf1c;
+
+    background-image: url('food-5281385_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px
+}
+#footer{
+    text-align: center;
+    background-color: azure;
+
+}
+
